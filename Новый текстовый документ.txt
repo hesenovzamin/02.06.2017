@@ -1,0 +1,35 @@
+Riyazi opretorlar.
+byte 0 dan 255 e kimi olan reqemleri gostere bilir
+sbyte bu ise -128 den 127 qeder ola n reqemleri
+short -32,768 32,767 ye qeder olan reqemleri
+ushort0 dan 65535 e qeder olan reqemler
+ulong 0 to 18446744073709551615
+long  bu operatorlarda -9223372036854775808 to 9223372036854775807
+long
+bunlar yalniz adi hesablamari hel ede bilir meselen 5+4=9 amma kesr ve yaxud qaliqli birsey olsa bu onu hesablamir
+meselen 5/4 olduqda yalniz 1 goturecek kesr ededleri tapmaq ucun ise bu operatorlardan istidafe olunur
+float decimal double dan isdifade olunur.
+char operatorundan ise simvolari yazmaq ucun isdifade olunur.
+bool operatoru ise muqayise etmek ucun istifade olunur
+
+
+2)mentiqi operatorlar ise + - / * % bu operatorlardi.
++ - / * bildiyimiz kimi toplama cixma bolme ve vurma emaliyatlarin yerine yetiriri
+% operatoru ise qaliqi gosterir meselen 5%4 burda 1 gosterecek
+
+3)muqayise operatorlari ise bunlardir.
+== bu operatorda her hansi 1 ri uygun gelerse cavab sef cixir.
+cavabin duzgun cixmasi ucun 2 sertinde uygun gelmeyi lazimdir
+
+!= bu operator her hansi bir cavabin eksini tapmaq ucundur.
+< > bu operatorlar ise boyuk ve yaxud kicik oldugunu bildirir.
+<= >= bunlarda boyuk beraber ve yaxud kicik beraber oldugunu bildiirir
+
+
+D?yis?n (variable) – proqramlasd?rmada: proqram?n yerin? yetirilm?si zaman? d?yis?n, mu?yy?n tip veril?nl?ri ozund? saxlayan adl? yaddas sah?si.
+ M?s?l?n, “check” adlanan d?yis?n 12 ?d?dini ozund? saxlaya bil?r, ancaq proqram ist?nil?n anda h?min qiym?ti d?yis? bil?r.
+ Proqramlasd?rma dill?rinin ?ks?riyy?ti d?yis?n konsepsiyas?n? d?st?kl?yir. 
+Proqramda d?yis?nd?n istifad? etm?k ucun onu askar, yaxud qeyri-askar elan etm?k –
+ identifikator m?nims?tm?k v? tipini gost?rm?k laz?md?r. D?yis?nin tipi onun hans? mumkun 
+qiym?tl?ri ala bil?c?yini v? onun uz?rind? hans? ?m?liyyalar?n apar?la bil?c?yini mu?yy?n edir. 
+F?aliyy?t sah?l?rin? gor? d?yis?nl?ri iki nov? ay?r?rlar: lokal d?yis?nl?r v? qlobal d?yis?nl?r.
